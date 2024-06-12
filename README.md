@@ -4,12 +4,12 @@ Welcome to the "Daytona Experiments" GitHub organization! We use a consistent na
 
 ## Naming Scheme
 
-**Format**: `exp-[color]-[monthyear]`
+**Format**: `exp-[yearmonth]-[color]`
 
 ### Components:
 - **exp**: A constant prefix indicating that this is part of the experiments.
+- **[yearmonth]**: The anticipated end date of the experiment in the format `YYYYMM` (e.g., 202408 for August 2024).
 - **[color]**: A codename based on a color.
-- **[monthyear]**: The month and year when the experiment starts.
 
 ### Example Codenames:
 You can select a codename from a wide range of colors. Here are some suggestions:
@@ -19,26 +19,26 @@ You can select a codename from a wide range of colors. Here are some suggestions
 
 ### Examples:
 
-1. **exp-red-2024**
+1. **exp-202408-red**
    - **exp**: Constant prefix.
+   - **202408**: Year and month indicating the experiment end date (August 2024).
    - **red**: Color codename.
-   - **072024**: The month the experiment ends.
 
-2. **exp-crimson-2024**
+2. **exp-202503-crimson**
    - **exp**: Constant prefix.
+   - **202503**: Year and month indicating the experiment end date (March 2025).
    - **crimson**: Color codename.
-   - **072024**: The month the experiment ends.
 
-3. **exp-teal-2024**
+3. **exp-202312-teal**
    - **exp**: Constant prefix.
+   - **202312**: Year and month indicating the experiment end date (December 2023).
    - **teal**: Color codename.
-   - **072024**: The month the experiment ends.
 
 ### Steps to Create a New Repository:
 
-1. Choose a color codename for your experiment.
-2. Ensure the name is unique within the organization to avoid conflicts.
-3. Use the format `exp-[color]-[monthyear]` to name your repository.
+1. Determine the anticipated end date of your experiment.
+2. Choose a color codename for your experiment.
+3. Use the format `exp-[yearmonth]-[color]` to name your repository.
 4. Create your repository under the GitHub organization with the agreed naming convention.
 
 ### Additional Tips:
