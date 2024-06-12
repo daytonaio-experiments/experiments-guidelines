@@ -4,12 +4,12 @@ Welcome to the "Daytona Experiments" GitHub organization! We use a consistent na
 
 ## Naming Scheme
 
-**Format**: `exp-[color]-[year]`
+**Format**: `exp-[color]-[monthyear]`
 
 ### Components:
 - **exp**: A constant prefix indicating that this is part of the experiments.
 - **[color]**: A codename based on a color.
-- **[year]**: The year when the experiment starts.
+- **[monthyear]**: The month and year when the experiment starts.
 
 ### Example Codenames:
 You can select a codename from a wide range of colors. Here are some suggestions:
@@ -38,7 +38,7 @@ You can select a codename from a wide range of colors. Here are some suggestions
 
 1. Choose a color codename for your experiment.
 2. Ensure the name is unique within the organization to avoid conflicts.
-3. Use the format `exp-[color]-[year]` to name your repository.
+3. Use the format `exp-[color]-[monthyear]` to name your repository.
 4. Create your repository under the GitHub organization with the agreed naming convention.
 
 ### Additional Tips:
